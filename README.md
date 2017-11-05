@@ -44,11 +44,42 @@ HSTS is enabled to prevent downgrade attacks, SSL stripping, and cookie hijackin
 
 # Contribution Guidelines
 
+### Planned Contributions
+
+I use a Kanban-esque [Waffle.io board](https://waffle.io/StevenTammen/chrya) to track all of the things that I am currently working on, plan to work on soon, or plan to work on eventually -- both for content and design. Put simply, this is where you should start if you want to contribute to this site, because this is the roadmap for the future. If you see something you want to help with, I'd be happy to have your assistance.
+
+Over time, if you take on an active role in development, I'll add you as a collaborator on GitHub, and you'll be able to edit pages and the Waffle.io board directly, with write permissions to the repository.
+
+This is the side of contribution that is structured: groups of people work together to achieve planned goals in an orderly fashion.
+
+### Ad Hoc Contributions
+
+Things can also be improved over time without any sort of overarching plan to bind contributions together: "organic growth", if you will. If there is something about the content or design of the site that you think could be done better, that is valid grounds for contributing. Nothing on this site is off limits -- you are free to contribute, as you see fit, in whatever way you want, pending my approval. Below are some examples of what *ad hoc* contributions could look like.
+
+Example Content Contributions:
+
+- Eliminating typos
+- Eliminating unecessary verbosity or denseness of prose
+- Improving phrasing, flow, or pacing
+- Adding visual aids, such as diagrams, to enhance comprehension
+- Expanding vague sections or adding additional support for points 
+- Anything else you think could make the content better
+
+Example Design Contributions:
+
+- Improving the desktop UX
+- Improving the mobile UX
+- Improving accessibility
+- Adding customization options for various aspects of the site's appearance and functionality
+- Anything else you think could make the site better
+
+This is the side of contribution that is unstructured: individuals contribute over time to make the site better.
+
 ### How To Contribute With Respect To Content
 
 At the top of every page I have included two buttons that link to its [markdown](https://daringfireball.net/projects/markdown/) source: one links to the page's location in this repository and the other links to the page's location on [Prose.io](http://prose.io/), an online markdown editor for GitHub.
 
-You can help improve the site's content by submitting pull requests with editorial changes on Github, or by editing the pages on Prose.io and then pressing "Save" --> "Submit Change Request", which will automatically create the pull request for you. Prose.io is great if you don't have a lot of experience with Git and GitHub -- even though you need a GitHub account to propose changes through Prose.io, you need no other knowledge, so once you [set up a GitHub account](https://github.com/join), you can contribute freely without having to know all the complicated programmer stuff. If you aren't comfortable contributing through GitHub or Prose.io, you can also just email improvements to <a href="mailto:edits@chrya.com">edits@steventammen.com</a>.
+You can help improve the site's content by submitting pull requests with editorial changes on Github, or by editing the pages on Prose.io and then pressing "Save" --> "Submit Change Request", which will automatically create the pull request for you. Prose.io is great if you don't have a lot of experience with Git and GitHub -- even though you need a GitHub account to propose changes through Prose.io, you need no other knowledge, so once you [set up a GitHub account](https://github.com/join), you can contribute freely without having to know all the complicated programmer stuff. If you aren't comfortable contributing through GitHub or Prose.io, you can also just email improvements to <a href="mailto:edits@steventammen.com">edits@steventammen.com</a>.
 
 At the present time, I am not aware of any easy way for me to make content editable in a rich text environment, so if you want to contribute through GitHub or Prose.io, you are going to have to learn the basics of [markdown syntax](https://daringfireball.net/projects/markdown/syntax). You won't have to know anywhere near the whole specification to help -- if you skim the sections related to paragraphs, links, lists, and emphasis you should have a good working knowledge in just a few minutes.
 
@@ -58,9 +89,21 @@ You can help improve the site itself by submitting pull requests with design imp
 
 For pull requests requiring significant amounts of work, it would be a good idea to check with me early on to make sure I approve of the changes or enhancements being considered. I don't want to put you in a situation where you put a lot of work into something that I wouldn't ultimately use.
 
+### Restrictions on Contribution
+
+I enjoy working with other people -- and benefit immensely from constructive criticism and new perspectives -- but ultimately, decisions about the direction of this site come down to me. In particular, this means that I alone will choose:
+
+1. what gets written about
+2. which improvements find their way into the main repository, and 
+3. how things are shared and licensed
+
+I want to be transparent about this: all contributions to this site are subject to the three statements above.
+
 # Copyright and Terms of Use
 
-The contents of this site are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+The contents of this site are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Unlike my secular site, <https://steventammen.com>, this site has a restriction on commercial use. This is because this is a ministry of grace -- I have chosen to make these materials available free of charge for the edification of the Church of Jesus Christ, and wish for them to always be used in such a way that nobody is being charged for the truth.
+
+I have not restricted derivative works because it is my hope that other teachers might find these materials helpful in accelerating their own production. I would simply ask that in all areas where meaning is substantially altered, it is made clear, so that nobody gets a false impression of what this site teaches.
   
 <br/>
 <a rel="license", href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png", alt="Creative Commons License"></a>
