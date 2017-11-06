@@ -16,14 +16,14 @@ To allow for selective forwarding and automatic categorization, I have several d
    </tr>
    <tr>
     <td>Questions and Correspondance</td>
-    <td><a href="mailto:steven@steventammen.com">steven@chrya.com</a></td>
+    <td><a href="mailto:steven@chrya.com">steven@chrya.com</a></td>
    </tr>
    <tr>
     <td>Content Improvements</td>
-    <td><a href="mailto:content@steventammen.com">edits@chrya.com</a></td>
+    <td><a href="mailto:edits@chrya.com">edits@chrya.com</a></td>
    </tr>
    <tr>
     <td>Design Improvements</td>
-    <td><a href="mailto:design@steventammen.com">design@chrya.com</a></td>
+    <td><a href="mailto:design@chrya.com">design@chrya.com</a></td>
    </tr>
   </table>
