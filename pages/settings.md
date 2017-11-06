@@ -10,10 +10,8 @@ title: Settings
 
 <!-- RefTagger Control Panel -->
 <div id="lbsRefTaggerCP">
-<a href="http://www.logos.com/reftagger"></a><br />
 <div id="lbsHeader">
 <a href="http://www.logos.com/reftagger">Bible Options</a></div>
-<br />
 <div id="lbsVersionContainer">
 <select id="lbsVersion">
         <option value="AB">AMP</option>
@@ -36,7 +34,7 @@ title: Settings
       </select>
     </div>
 <div id="lbsLibronixContainer">
-<input id="lbsUseLibronixLinks" type="checkbox" />
+<input id="lbsUseLibronixLinks" type="checkbox"/>
       <label for="lbsUseLibronixLinks">Show Logos Links</label>
     </div>
 <div id="lbsSaveContainer">
