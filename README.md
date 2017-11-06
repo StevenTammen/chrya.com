@@ -101,7 +101,7 @@ I want to be transparent about this: all contributions to this site are subject 
 
 # Copyright and Terms of Use
 
-The contents of this site are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Unlike the materials from [my non-religious site](https://steventammen.com), the materials from this site may not be used commercially. This is because this is a ministry of grace -- I have chosen to make these materials available free of charge for the edification of the Church of Jesus Christ, and wish for them to always be used in such a way that nobody has to pay for the truth.
+The contents of this site are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Unlike the materials from [my non-religious site](https://steventammen.com), the materials from this site may not be used commercially. This is because this is a ministry of grace -- I have chosen to make these materials available free of charge for the edification of the Church of Jesus Christ, and wish for them to always be used in such a way that nobody has to pay for them.
 
 I have not restricted derivative works because it is my hope that other teachers might find these materials helpful in accelerating their own production. I would simply ask that in all areas where meaning is substantially altered, it is made clear, so that nobody gets a false impression of what this site teaches.
   
