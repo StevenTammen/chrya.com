@@ -405,6 +405,7 @@ th {
     font-size: 120%;
     font-weight: bold;
     border-bottom: solid #000000 1px;
+    margin-bottom: 10px;
 }
 
 #lbsSaveContainer, #lbsVersionContainer, #lbsLibronixContainer {
@@ -413,7 +414,7 @@ th {
 }
 
 #lbsSave {
-    width: 100%;
+    width: 60%;
     margin-top: 10px;
     border:1px solid gray;
     font-family: helvetica, arial, "sans serif";
