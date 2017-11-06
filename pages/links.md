@@ -51,7 +51,7 @@ I would recommend the following resources:
 - Topical Indices: Nave's Topical Index, Torrey's Topical Textbook.
 - Bible Dictionaries: The International Bible Encyclopedia (ISBE) 1915, Hasting's Bible Dictionary, Smith's Bible Dictionary, Fausset's Bible Dictionary, Easton's Bible Dictionary, Hitchcock's Bible Names Dictionary.
 - Lexicons: Thayer's (Greek), Brown-Driver-Briggs (Hebrew), and Strong's Dictionary (Greek and Hebrew). In both programs, these will be accessible to English-speakers through Strong's numbers.
-- Verse-by-verse helps: Bob Utley's Study Guide Commentary Series (available for e-Sword [here](http://www.biblesupport.com/e-sword-downloads/file/9087-utley-bob-you-can-understand-the-bible-study-guide-commentary-series-otnt-23-vols/) and theWord [here](http://www.wordmodules.com/the-word-modules/file/735-utley-bob-you-can-understand-the-bible-study-guide-commentary-series-otnt-23-vols/).
+- Verse-by-verse helps: Bob Utley's Study Guide Commentary Series (available for e-Sword [here](http://www.biblesupport.com/e-sword-downloads/file/9087-utley-bob-you-can-understand-the-bible-study-guide-commentary-series-otnt-23-vols/) and theWord [here](http://www.wordmodules.com/the-word-modules/file/735-utley-bob-you-can-understand-the-bible-study-guide-commentary-series-otnt-23-vols/)).
 
 Learning how to use these programs is worth it for the speed of cross-referencing alone. I do not think that a layman needs anything more than what I have listed above, since they should be getting their teaching from a good teaching ministry, not commentaries.
 
