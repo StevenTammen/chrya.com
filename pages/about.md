@@ -10,9 +10,11 @@ title: About
 
 My name is Steven Tammen and I am an undergraduate student at the University of Georgia. I am triple majoring in Computer Science, Classical Culture, and Ancient Greek, although I will have also taken six semesters of Hebrew by the time I graduate. (There is no degree program or minor for Hebrew at UGA).
 
-At this point, I am starting to read through the New Testament in Greek, and getting close to being able to read the Old testament in Hebrew. I have also attempted to give myself a solid background in ancient history, Biblically relevant cultures (Greece, Rome, and various cultures of the ancient near east), church history, systematic theology, hermeneutics, and translation methodology. One never really completes preparation for teaching.
+More specific information about me can be found in [my CV](https://steventammen.com/CV.pdf).
 
-More specific information about me can be found in [my CV](https://steventammen.com/CV.pdf). I am happy to discuss my qualifications for teaching in greater detail upon request. (Email: <mailto:steven@chrya.com>).
+At this point, I am starting to read through the New Testament in Greek, and getting close to being able to read the Old testament in Hebrew. I have also studied topics in ancient history, Biblically relevant cultures (Greece, Rome, and various cultures of the ancient near east), church history, systematic theology, hermeneutics, and translation methodology in preparation for teaching. One never really completes preparation for teaching (it is a life-long thing), but I feel that I am now qualified enough to start producing things on my own.
+
+I am happy to discuss my qualifications for teaching in greater detail upon request (email: <mailto:steven@chrya.com>). In the near future, I will have a link here explaining why I have chosen to have a secular day job in computer science, what my path up until now has looked like, and so forth.
 
 ### Purpose
 
