@@ -411,6 +411,7 @@ th {
 #lbsSaveContainer, #lbsVersionContainer, #lbsLibronixContainer {
     padding: 4px;
     display: inline;
+    margin-top: 10px;
 }
 
 #lbsSave {
@@ -424,10 +425,6 @@ th {
 #lbsVersion {
     font-size:100%;
 }
-
-#lbsRefTaggerCP a:link{ color:#0000ff; } 
-#lbsRefTaggerCP a:visited{ color:#b400ff; } 
-#lbsRefTaggerCP a:hover{ color:#0ebfe9; } 
 
 #lbsUseLibronixLinks {
     cursor: pointer;
