@@ -382,7 +382,64 @@ th {
     }
 }
 
-/* ---------- Added ---------- */
+/* ---------- Center ---------- */
 .center {
   margin: auto;
-  text-align:center; }
+  text-align:center; 
+}
+
+/* ----- RefTagger CP ----- */
+#lbsRefTaggerCP {
+    margin-left:auto;
+    margin-right:auto;
+    width: 22em;
+    background-color:#eeeeee;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4em;
+    font-size: 80%;
+    text-align: center;
+    border-style: double;
+    border-width: 2px;
+}
+
+#lbsHeader {
+    text-align: center;
+    font-size: 120%;
+    font-weight: bold;
+    border-bottom: solid #000000 1px;
+    padding: .25em;
+    margin-bottom: 4px;
+}
+
+#lbsSaveContainer, #lbsVersionContainer, #lbsLibronixContainer {
+    padding: 4px;
+    display: inline;
+}
+
+#lbsSave {
+    border:1px solid gray;
+    font-family: helvetica, arial, "sans serif";
+    cursor: pointer;
+}
+
+#lbsVersion {
+    font-size:100%;
+}
+
+#lbsRefTaggerCP a:link{ color:#0000ff; } 
+#lbsRefTaggerCP a:visited{ color:#b400ff; } 
+#lbsRefTaggerCP a:hover{ color:#0ebfe9; } 
+
+#lbsFooter {
+    font-size: 95%;
+    border-top:solid #000000 1px;
+    padding:4px 4px 4px 4px;
+    line-height: 2.5;
+    margin-top: 4px;
+    text-align: left;
+}
+
+#lbsUseLibronixLinks {
+    cursor: pointer;
+}
+
