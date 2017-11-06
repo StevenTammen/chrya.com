@@ -51,7 +51,7 @@ I believe in publishing in-progress pages for two reasons: 1) waiting until page
 
 ### Open Source
 
-As the progression above shows, I believe that open source projects will generally be of higher quality than non-open source projects. Software has been part of the open source movement for a while now, and hardware is beginning to get there, but, to my knowledge, there has not been much of a push to opensource *websites themselves*. I find this somewhat puzzling, since open source projects offer so many advantages and so few disadvantages. I have designed this website to be entirely open source, and the content is licensed under open source licenses (see below). Contribution guidelines may be found in the ["Contribution Guidelines" section](https://github.com/StevenTammen/chrya#contribution-guidelines) of the Readme in the site's [Github repository](https://github.com/StevenTammen/chrya).
+As the progression above shows, I believe that open source projects will generally be of higher quality than non-open source projects. Software has been part of the open source movement for a while now, and hardware is beginning to get there, but, to my knowledge, there has not been much of a push to opensource *websites themselves*. I find this somewhat puzzling, since open source projects offer so many advantages and so few disadvantages. I have designed this website to be entirely open source, and the content is licensed under an open source license (see below). Contribution guidelines may be found in the ["Contribution Guidelines" section](https://github.com/StevenTammen/chrya#contribution-guidelines) of the Readme in the site's [Github repository](https://github.com/StevenTammen/chrya).
 
 ### Continuous Improvement
 
