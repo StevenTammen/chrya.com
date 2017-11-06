@@ -1,1 +1,1 @@
-include: ['pages']
+include: ['pages', 'studies', 'notes']
