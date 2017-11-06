@@ -43,10 +43,10 @@ I recommend that you have a look at the following websites:
 
 These are two free Bible study programs that accomplish most everything that a layman needs. They are both quite good, but cater to slightly different audiences. [theWord](http://www.theword.net/) is more configurable than [e-Sword](http://www.e-sword.net/), but has a bit more of a learning curve. e-Sword tries to be as simple as possible, and is what I would recommend for people who don't get along with technology very well.
 
-I would recommend the following resources:
+Here is a list of helpful resources to use within the programs:
 
-- Bibles: KJV, ESV, ASV (plus any others that you feel like buying for comparison/parallel view purposes: I'd recommend NASB and NKJV).
-- Cross references: those built into versions, those that you build yourself. (I find the Treasury of Scripture Knowledge to be rather hit or miss -- in my experience, it is more useful to have a smaller number of high-quality cross references).
+- Bibles: I recommend starting with the free options (KJV, ESV, ASV), and then purchasing others for comparison purposes later. I like the NASB, NKJV, HCSB, and old (1984) NIV.
+- Cross references: those built into Bible versions, those that you build yourself. (I find the Treasury of Scripture Knowledge to be rather hit or miss -- in my experience, it is more useful to have a smaller number of high-quality cross references).
 - Concordances: Search based on Strong's numbers (for Strong's enabled Bible versions).
 - Topical Indices: Nave's Topical Index, Torrey's Topical Textbook.
 - Bible Dictionaries: The International Bible Encyclopedia (ISBE) 1915, Hasting's Bible Dictionary, Smith's Bible Dictionary, Fausset's Bible Dictionary, Easton's Bible Dictionary, Hitchcock's Bible Names Dictionary.
