@@ -405,13 +405,11 @@ th {
     font-size: 120%;
     font-weight: bold;
     border-bottom: solid #000000 1px;
-    padding: 4px;
 }
 
 #lbsSaveContainer, #lbsVersionContainer, #lbsLibronixContainer {
     padding: 4px;
     display: inline;
-    margin-top: 10px;
 }
 
 #lbsSave {
