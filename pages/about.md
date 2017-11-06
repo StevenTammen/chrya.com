@@ -22,6 +22,19 @@ This site exists to glorify God by providing materials to aid in spiritual growt
 
 This website is dedicated to truth as God has seen fit to reveal it to us in the Bible. I am happy to answer specific questions about my beliefs, but hope that these materials speak for themselves.
 
+### Choice of URL
+
+"Chrya" is not a reference to anything in particular. I did not want to tie myself down to some specific verse or concept, since this ministry strives to teach the whole Bible. I also didn't want to use a name dealing with symbology, acronyms, etc., since such a name would constantly have to be explained. In short, Chrya was chosen since it could be used as a shorthand way of referring to this ministry without calling to mind any other associations whatsoever.
+
+In terms of specifics:
+
+- Chrya is a 5 letter domain, which makes it fast to type and easy to remember. Available 5 letter domains are becoming exceedingly rare.
+- Chrya.com is mnemonic by virtue of word-initial consonance
+- Chrya is a .com domain for several reasons:
+  - It is the type of domain that non-tech-savvy people are most familiar with, and the type of domain that is most instantly recognizable to us all.
+  - .com domains are less likely to be screened for religious content than .org domains. (Some restrictive governments and organizations attempt to block religious content).
+  - Using a .com domain ensures stability (unlike TLD's associated with particular geographic regions like .io), and hedges against ICANN politics.
+
 ### Backend
 
 A concise technical summary of this site's operation may be found in the ["Technical Overview" section](https://github.com/StevenTammen/chrya#technical-overview) of the Readme in the site's [Github repository](https://github.com/StevenTammen/chrya/).
