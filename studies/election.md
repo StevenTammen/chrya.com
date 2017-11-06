@@ -18,6 +18,8 @@ title: Election
    
 </div>
 
+<br/>
+
 In discussing the role that the Trinity played in our *election* (selection, salvation, justification, redemption), it is important that we define terms. We *are* elect: it is a present state of being. But God’s election of us is not arbitrary, it is based on our faith, born of free will (cf. John 3:16-18, Romans 4:23-25). A good way to put it is this, “God chooses us when we choose Him” (and God gives *all people* a fair choice according to His foreknowledge).
 
 Despite the baggage the word has come to acquire, elect simply means that we are *presently* selected by God to be part of His family through our non-meritorious faith in His Son and His sacrifice. Thus, the phrase “the elect” is synonymous with “all believers” — by definition, all believers are elect, because God selects every believer into His family at the point of their salvation (that is, after all, what salvation really means). What “the elect” does most assuredly *not* mean in scripture is a group of people that God has arbitrarily chosen to be saved no matter what they think about Christ or what they do with their free will.
