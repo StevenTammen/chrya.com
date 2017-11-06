@@ -12,7 +12,7 @@ My name is Steven Tammen and I am an undergraduate student at the University of 
 
 More specific information about me can be found in [my CV](https://steventammen.com/CV.pdf).
 
-At this point, I am starting to read through the New Testament in Greek, and getting close to being able to read the Old testament in Hebrew. I have also studied topics in ancient history, Biblically relevant cultures (Greece, Rome, and various cultures of the ancient near east), church history, systematic theology, hermeneutics, and translation methodology in preparation for teaching. One never really completes preparation for teaching (it is a life-long thing), but I feel that I am now qualified enough to start producing things on my own.
+At this point, I am starting to read through the New Testament in Greek, and getting close to being able to read the Old Testament in Hebrew. I have also studied topics in ancient history, Biblically relevant cultures (Greece, Rome, and various cultures of the ancient near east), church history, systematic theology, hermeneutics, and translation methodology in preparation for teaching. One never really completes preparation for teaching (it is a life-long thing), but I feel that I am now qualified enough to start producing things on my own.
 
 I am happy to discuss my qualifications for teaching in greater detail upon request (email: <mailto:steven@chrya.com>). In the near future, I will have a link here explaining why I have chosen to have a secular day job in computer science, what my path up until now has looked like, and so forth.
 
@@ -30,8 +30,8 @@ This website is dedicated to truth as God has seen fit to reveal it to us in the
 
 In terms of specifics:
 
-- Chrya is a 5 letter domain, which makes it fast to type and easy to remember. Available 5 letter domains are becoming exceedingly rare.
-- Chrya.com is mnemonic by virtue of word-initial consonance
+- Chrya is a 5 letter domain, which makes it fast to write/type and easy to remember. Available 5 letter domains are becoming exceedingly rare.
+- Chrya.com is mnemonic by virtue of alliteration
 - Chrya is a .com domain for several reasons:
   - It is the type of domain that non-tech-savvy people are most familiar with, and the type of domain that is most instantly recognizable to us all.
   - .com domains are less likely to be screened for religious content than .org domains. (Some restrictive governments and organizations attempt to block religious content).
