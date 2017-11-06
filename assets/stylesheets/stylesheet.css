@@ -389,6 +389,11 @@ th {
 }
 
 /* ----- RefTagger CP ----- */
+
+#lbsRefTaggerCP a:link{ color:#0000EE; } 
+#lbsRefTaggerCP a:visited{ color:#551A8B; } 
+#lbsRefTaggerCP a:hover{ color:#ff5050; } 
+
 #lbsRefTaggerCP {
     width: 22em;
     background-color:#f7f7f7;
