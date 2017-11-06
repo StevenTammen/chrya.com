@@ -55,7 +55,7 @@ What all this has to do with the matter at hand is this -- anything that
 involves actual thought concerning *porneia* is playing with fire -- but
 so too is anything that calls *porneia* to mind to make you "not think
 about it." One needs no physical objects to sin in this area (e.g.,
-while one needs alcohol to become drunk, one may lust after a women
+while one needs alcohol to become drunk, one may lust after a woman
 without anyone else even about). This makes a zero-tolerance policy all
 the more important -- the line between having *porneia* in mind (in
 whatever way) and falling into sin is not one that may be reasonably
