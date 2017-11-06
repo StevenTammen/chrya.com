@@ -405,7 +405,6 @@ th {
     font-size: 120%;
     font-weight: bold;
     border-bottom: solid #000000 1px;
-    padding: .25em;
 }
 
 #lbsSaveContainer, #lbsVersionContainer, #lbsLibronixContainer {
@@ -414,6 +413,8 @@ th {
 }
 
 #lbsSave {
+    width: 100%;
+    margin-top: 10px;
     border:1px solid gray;
     font-family: helvetica, arial, "sans serif";
     cursor: pointer;
@@ -429,4 +430,5 @@ th {
 
 #lbsUseLibronixLinks {
     cursor: pointer;
+    
 }
