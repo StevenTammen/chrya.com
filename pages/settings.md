@@ -17,7 +17,7 @@ title: Settings
         <option value="AB">AMP</option>
         <option value="ASV">ASV</option>
         <option value="DAR">DARBY</option>
-        <option selected="selected" value="ESV">ESV</option>
+        <option value="ESV">ESV</option>
         <option value="GW">GW</option>
         <option value="HCSB">HCSB</option>
         <option value="KJV">KJV</option>
@@ -27,7 +27,7 @@ title: Settings
         <option value="NCV">NCV</option>
         <option value="NIV">NIV</option>
         <option value="NIRV">NIRV</option>
-        <option value="NKJV">NKJV</option>
+        <option selected="selected" value="NKJV">NKJV</option>
         <option value="NLT">NLT</option>
         <option value="TNIV">TNIV</option>
         <option value="YLT">YLT</option>
