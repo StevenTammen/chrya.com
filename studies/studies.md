@@ -6,6 +6,10 @@ title: Studies
 
 <h1 class="center">Studies</h1>
 
+## Epistemology
+
+- [Overview Page](https://chrya.com/epistemology/)
+
 ## Miscellaneous
 
 - [Election and "The Elect"](https://chrya.com/election/)
