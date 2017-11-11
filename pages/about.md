@@ -30,7 +30,7 @@ This website is dedicated to truth as God has seen fit to reveal it to us in the
 
 In terms of specifics:
 
-- Chrya is a 5 letter domain, which makes it fast to write/type and easy to remember. Available 5 letter domains are becoming exceedingly rare.
+- Chrya is a 5 letter domain, which makes it fast to say/write/type and easy to remember. Available 5 letter domains are becoming exceedingly rare.
 - Chrya.com is mnemonic by virtue of alliteration
 - Chrya is a .com domain for several reasons:
   - It is the type of domain that non-tech-savvy people are most familiar with, and the type of domain that is most instantly recognizable to us all.
