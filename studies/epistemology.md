@@ -68,5 +68,5 @@ The reason why more needs to be said is because complications arise. How exactly
 - Basic hermeneutics -- brief surveys regarding the impact that knowledge of history, ancient cultures, etc. has on interpretation.
 - The importance of context in determining meaning
 
-TODO: Determine best way to order materials \\
+TODO: Determine best way to order materials  
 TODO: Determine the optimum "depth" of teaching for each topic (not "too much" background necessary in theology, philosophy, etc. to make full use of the materials)
