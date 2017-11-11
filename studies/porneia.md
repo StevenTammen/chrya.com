@@ -18,6 +18,15 @@ title: Porneia
    
 </div>
 
+## Table of Contents
+
+- [Purity of Thought](#purity-of-thought)
+- [Practical Matters](#practical-matters)
+  * [Removing Sources of Temptation](#removing-sources-of-temptation)
+  * [Resisting to the Point of Blood](#resisting-to-the-point-of-blood)
+  * [Overcoming Feelings of Guilt and Shame](#overcoming-feelings-of-guilt-and-shame)
+- [Regarding Teaching On This Subject](#regarding-teaching-on-this-subject)
+
 ## Purity of Thought
 
 There is a rightful taboo surrounding *porneia* (Greek: πορνεία, sexual
