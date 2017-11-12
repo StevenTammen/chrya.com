@@ -43,7 +43,7 @@ Epistemology, as it it commonly defined, is the study of knowledge and justified
 
 > ... [K]nowledge as [justified true belief]: *S* knows that *p* if and only if *p* is true and *S* is justified in believing that *p*. According to this analysis, the three conditions — truth, belief, and justification — are individually necessary and jointly sufficient for knowledge.
 
-Translation: for you to to know that something is the case, the "something" has to be true, you have to actually believe it, and you have to be believing it for good reasons (have justified belief). Broadly speaking, this series will focus on what things are true (Christian sources of truth), the importance of actually believing these sources so as to obtain expriential knowledge (Gk. *epignosis*), and how we know that our belief in these sources is justified.
+Translation: for you to really know something, the "something" has to be true, you have to actually believe it, and you have to be believing it for good reasons (have justified belief). Broadly speaking, this series will focus on what things are true (Christian sources of truth), the importance of actually believing these sources so as to obtain expriential knowledge (Gk. *epignosis*), and how we know that our belief in these sources is justified.
 
 (Note: it is common to get hung up on terminology, particularly if one is not accustomed to philosophy's nasty habit of imbuing words from everyday life with special significance. The knowledge described by traditional epistemology is so-called "knowledge-that" or propositional knowledge. Thus, "knowing" is used in a very specific technical sense -- not "knowing about" = "conversant with the content of," but "knowing that" = "having justified true belief that").
 
