@@ -47,7 +47,7 @@ Here is a list of helpful resources to use within the programs:
 
 - Bibles: I recommend starting with the free options (KJV, ESV, ASV), and then purchasing others for comparison purposes later. I like the NASB, NKJV, HCSB, and old (1984) NIV.
 - Cross references: those built into Bible versions, those that you build yourself. (I find the Treasury of Scripture Knowledge to be rather hit or miss -- in my experience, it is more useful to have a smaller number of high-quality cross references).
-- Concordances: Search based on Strong's numbers (for Strong's enabled Bible versions).
+- Concordances: Search based on Strong's numbers (using Strong's enabled Bible versions).
 - Topical Indices: Nave's Topical Index, Torrey's Topical Textbook.
 - Bible Dictionaries: The International Bible Encyclopedia (ISBE) 1915, Hasting's Bible Dictionary, Smith's Bible Dictionary, Fausset's Bible Dictionary, Easton's Bible Dictionary, Hitchcock's Bible Names Dictionary.
 - Lexicons: Thayer's (Greek), Brown-Driver-Briggs (Hebrew), and Strong's Dictionary (Greek and Hebrew). In both programs, these will be accessible to English-speakers through Strong's numbers.
@@ -57,6 +57,6 @@ Learning how to use these programs is worth it for the speed of cross-referencin
 
 ### [Logos](https://www.logos.com/), [BibleWorks](https://bibleworks.com/), and [Accordance](https://www.accordancebible.com/)
 
-These Bible Study programs can only fully be utilized by teachers and scholars, and I would not recommend anyone else invest in them unless money is no issue. I have sunk hundreds of dollars into cultivating digital libraries in all three, and think that they all have their pros and cons (about which I plan to write in the future). I am happy to be able to use all of them.
+These Bible Study programs can only fully be utilized by teachers and scholars, and I would not recommend anyone else invest in them unless money is no issue. I own resources in all three, and think that they all have their pros and cons (about which I plan to write in the future). I am happy to be able to use all of them.
 
 I would not recommend teachers purchase a base package in Logos or Accordance (despite their marketing), since teachers need almost exclusively original language resources (plus a few other ancillary materials). Most of the things in the base packages will be of no use to teachers who are doing things the right way.
