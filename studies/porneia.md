@@ -45,7 +45,7 @@ thought wherein *porneia* has no place. You do not conquer sexual sin by
 keeping track of your progress, trying to motivate yourself by
 statistics of success and failure, nor through fiddly filtering
 software, accountability partners, journaling, or anything else. All of
-these things make you think about "it", whatever "it" may be. This is
+these things make you think about "it," whatever "it" may be. This is
 madness -- like an alcoholic gurgling with vodka or someone who has quit
 smoking lighting a cigarette but "not inhaling."
 
