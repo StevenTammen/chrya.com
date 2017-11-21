@@ -22,6 +22,8 @@ title: Christians And Truth
 
 - [Please Note: This Page Is In Progress](#please-note--this-page-is-in-progress)
 - [Series Overview](#series-overview)
+   - [A Word About Epistemology](#a-word-about-epistemology)
+   - [Introduction And Purpose](#introduction-and-purpose)
 - [Topics](#topics)
 
 ## Please Note: This Page Is In Progress
@@ -57,7 +59,7 @@ This series, in addition to only focusing on a subset of topics in epistemology,
 
 For Christians, truth is obtained from God's written Word, and from a relationship with the living Word, Jesus Christ. Science and related disciplines (all of which ultimately come from God) are sources of truth as well, but not the divine, spiritual truth that is the subject of this series.
 
-The fundamental mechanics of Christians' relationship with truth are really pretty simple. God has structured the universe in such a way that it speaks of His glory and eternal power (cf. Psalm 19), and has written eternity on the hearts of men. Collectively, these (and other) general sources of divine truth are known as *general revelation*. To those who respond to general revelation, seeking further knowledge of God, God provides *special revelation* in the form of His inspired Word -- the Bible -- and qualified and prepared teachers to minister it. These are the sources of truth for all Christians. We believe in the truth obtained from these sources through the free will that comes from the image of God. We are justified in our belief because of the character of God and the promises he has made us.
+The fundamental mechanics of Christians' relationship with truth are really pretty simple. God has structured the universe in such a way that it speaks of His glory and eternal power (cf. Psalm 19), and has written eternity on the hearts of men. Collectively, these (and other) general sources of divine truth are known as *general revelation*. To those who respond to general revelation, seeking further knowledge of God, God provides *special revelation* in the form of His inspired Word -- the Bible -- and qualified and prepared teachers to minister it. These are the sources of truth for all Christians. We believe in the truth obtained from these sources through the free will that comes from the image of God. We are justified in our belief because of the character of God and the promises He has made us.
 
 The reason why more needs to be said is because complications arise. How exactly does one get truth from the Bible? How does one decide if a teacher is of God? Why do some people say that prophecy (which was previously an additional form of special revelation) is still in effect? Why is it that in our modern information age -- wherein we have more potential to know the fullness of God's revealed truth than any time before -- an average Christian knows *less* truth? This series aims to answer these questions and others like them.
 
