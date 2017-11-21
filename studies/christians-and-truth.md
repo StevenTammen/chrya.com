@@ -1,12 +1,12 @@
 ---
-permalink: /epistemology/
+permalink: /christians-and-truth/
 layout: layout
-title: Epistemology
+title: Christians And Truth
 ---
 
 <div class="center">
 
-   <h1>Epistemology</h1>
+   <h1>Christians And Truth</h1>
    
    <a href="https://github.com/StevenTammen/chrya/edit/master/studies/epistemology.md" target="_blank">
      <img src="https://chrya.com/assets/images/GitHub.png" height="30" width="30">
@@ -39,19 +39,27 @@ This does not mean that:
 
 ## Series Overview
 
+### A Word About Epistemology
+
+By way of introduction, let me state that this series was originally going to to be titled "Christian Epistemology," but after a good conversation with a philosophically inclined family member, I have decided to go with the bland-but-descriptive title "Christians and truth."
+
 Epistemology, as it it commonly defined, is the study of knowledge and justified belief. The [Standford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html), on its [page for epistemology](https://plato.stanford.edu/entries/epistemology/), has the following to say about knowledge:
 
 > ... [K]nowledge as [justified true belief]: *S* knows that *p* if and only if *p* is true and *S* is justified in believing that *p*. According to this analysis, the three conditions — truth, belief, and justification — are individually necessary and jointly sufficient for knowledge.
 
-Translation: for you to really know something, the "something" has to be true, you have to actually believe it, and you have to be believing it for good reasons (have justified belief). Broadly speaking, this series will focus on what things are true (Christian sources of truth), the importance of actually believing these sources so as to obtain expriential knowledge (Gk. *epignosis*), and how we know that our belief in these sources is justified.
+Translation: for you to really know something, the "something" has to be true, you have to actually believe it, and you have to be believing it for good reasons (have justified belief). 
 
-(Note: it is common to get hung up on terminology, particularly if one is not accustomed to philosophy's nasty habit of imbuing words from everyday life with special significance. The knowledge described by traditional epistemology is so-called "knowledge-that" or propositional knowledge. Thus, "knowing" is used in a very specific technical sense -- not "knowing about" = "conversant with the content of," but "knowing that" = "having justified true belief that").
+Broadly speaking, this series will only focus on what things are true (Christian sources of truth), the importance of actually believing these sources so as to obtain expriential knowledge (Gk. *epignosis*), and how we know that our belief in these sources of truth is justified. No other aspects of epistemology proper will be discussed, since they are rather tangential to the points at hand. It is important, however, to mention that other aspects of epistemology do exist, even other aspects of epistemology unique to the Christian point of view. I would encourage anyone so inclined to peruse the link above to get an idea of how complex human belief really is. 
+
+This series, in addition to only focusing on a subset of topics in epistemology, will be much less formal overall. Philosophy can be a bit daunting for people who aren't familiar with the peculiarities of phrasing (not to mention the copious amounts of jargon). For example, the knowledge described by traditional epistemology is so-called "knowledge-that" or propositional knowledge. Thus, "knowing" is used in a very specific technical sense -- not "knowing about" = "conversant with the content of," but "knowing that" = "having justified true belief that." Avoiding the label of epistemology will free me from an obligation to be precise in my phrasing of things because people won't be expecting philosophy proper. This is not to say that care won't be taken or logic ignored, but simply that this series is written in simpler language and less precise arguments than what would be expected of true philosophical exposition.
+
+### Introduction And Purpose
 
 For Christians, truth is obtained from God's written Word, and from a relationship with the living Word, Jesus Christ. Science and related disciplines (all of which ultimately come from God) are sources of truth as well, but not the divine, spiritual truth that is the subject of this series.
 
-The fundamental mechanics of Christian epistemology are really pretty simple. God has structured the universe in such a way that it shouts His glory and eternal power, and has written eternity on the hearts of men. Collectively, these (and other) general sources of divine truth are known as *general revelation*. To those who respond to general revelation, seeking further knowledge of God, God provides *special revelation* in the form of His inspired Word -- the Bible -- and qualified and prepared teachers to minister it. These are the sources of truth for all Christians. We believe through the free will that comes from the image of God. We are justified in our belief because of the character of God and the promises he has made us.
+The fundamental mechanics of Christians' relationship with truth are really pretty simple. God has structured the universe in such a way that it speaks of His glory and eternal power (cf. Psalm 19), and has written eternity on the hearts of men. Collectively, these (and other) general sources of divine truth are known as *general revelation*. To those who respond to general revelation, seeking further knowledge of God, God provides *special revelation* in the form of His inspired Word -- the Bible -- and qualified and prepared teachers to minister it. These are the sources of truth for all Christians. We believe in the truth obtained from these sources through the free will that comes from the image of God. We are justified in our belief because of the character of God and the promises he has made us.
 
-The reason why more needs to be said is because complications arise. How exactly does one get truth from the Bible? How does one decide if a teacher is of God? Why do some people say that prophecy (which was previously an additional form of special revelation) is still in effect? Why is it that in our modern information age -- wherein we have more potential to know the fullness of God's revealed truth than any time before -- an average Christian knows *less* truth?
+The reason why more needs to be said is because complications arise. How exactly does one get truth from the Bible? How does one decide if a teacher is of God? Why do some people say that prophecy (which was previously an additional form of special revelation) is still in effect? Why is it that in our modern information age -- wherein we have more potential to know the fullness of God's revealed truth than any time before -- an average Christian knows *less* truth? This series aims to answer these questions and others like them.
 
 ## Topics
 
