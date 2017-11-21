@@ -6,9 +6,9 @@ title: Studies
 
 <h1 class="center">Studies</h1>
 
-## Epistemology
+## Christians And Truth
 
-- [Overview Page](https://chrya.com/epistemology/)
+- [Overview Page](https://chrya.com/christians-and-truth/)
 
 ## Miscellaneous
 
