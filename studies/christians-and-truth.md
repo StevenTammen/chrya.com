@@ -65,18 +65,42 @@ The reason why more needs to be said is because complications arise. How exactly
 
 ## Topics
 
-- Natural revelation and special revelation
+### Presuppositions
+
+- About God, the Bible, the knowability of truth, and so forth.
+
+### Sources Of Truth
+
+- General revelation and special revelation
 - Forms of special revelation before the canon closed
 - Inspiration: its implications and its importance
-- Logical fallacies regarding appeals to history, authority, and consensus (i.e., "what the church fathers said, what current church leaders say, and what most people believe").
-- How lay Christians ought to handle situations when seemingly strong, well-educated Christian teachers take opposing views on important matters. Who should they trust?
-- The importance for lay Christians of picking one teaching ministry to trust so as to avoid doubt and anxiety over what is true
-- The importance of *epignosis* in the Christian life; the difference between intellectual assent and spiritual truth learned, believed, and applied
-- The so-called "fruit test" -- how to tell good teachers from bad teachers
-- The proper functioning of teachers within the Church; the gift of teacher in general, who can have it, how they should go about preparing for ministry, etc.
 - The importance of the original languages and texts in determining truth (rather than translations)
-- Basic hermeneutics -- brief surveys regarding the impact that knowledge of history, ancient cultures, etc. has on interpretation.
+- Basic hermeneutics -- brief surveys regarding the impact that specialized knowledge has on interpretation.
+   - Systematic theology
+   - Church history
+   - Ancient history
+   - Knowledge of ancient cultures (Hebrew, Greek, Roman, etc.)
 - The importance of context in determining meaning
+- The proper functioning of teachers within the Church -- acting as interpreters and explainers of the Bible. 
+   - The gift of teacher in general, who can have it, how they should go about preparing for ministry, etc.
+- Improper sources of truth
+   - Appeals to history and tradition
+   - Appeals to authority
+   - Appeals to popular opinion and consensus
+   - Hymns, liturgies, creeds and other extra-Biblical materials
+   - Experience, particularly 3rd party reports
+   - Emotion
+   
+### Believing Truth
 
-TODO: Determine best way to order materials  
-TODO: Determine the optimum "depth" of teaching for each topic (not "too much" background necessary in theology, philosophy, etc. to make full use of the materials)
+- The importance of *epignosis* in the Christian life; the difference between intellectual assent and spiritual truth learned, believed, and applied.
+- The uncomfortable fact that lay Christians will not, in all circumstances, be able to discern truth on their own; eventually, they will have to "take someone's word for it."
+- The importance for lay Christians of picking one teaching ministry to trust so as to avoid doubt and anxiety over what is true
+- How lay Christians ought to handle situations when seemingly earnest, well-educated Christian teachers take opposing views on important matters. Who should they trust?
+- The so-called "fruit test" -- how to tell good teachers from bad teachers
+
+### Justifying Belief
+
+- The fundamental incomprehensibility of Christian belief to the unsaved, and what we should make of this fact.
+- A review of the implications of inspiration
+- A meditation on the character and promises of God
