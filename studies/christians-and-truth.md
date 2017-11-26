@@ -87,7 +87,7 @@ The reason why more needs to be said is because complications arise. How exactly
    - Appeals to history and tradition
    - Appeals to authority
    - Appeals to popular opinion and consensus
-   - Hymns, liturgies, creeds and other extra-Biblical materials
+   - Hymns, liturgies, creeds, and other extra-Biblical materials
    - Experience, particularly 3rd party reports
    - Emotion
    
@@ -95,7 +95,7 @@ The reason why more needs to be said is because complications arise. How exactly
 
 - The importance of *epignosis* in the Christian life; the difference between intellectual assent and spiritual truth learned, believed, and applied.
 - The uncomfortable fact that lay Christians will not, in all circumstances, be able to discern truth on their own; eventually, they will have to "take someone's word for it."
-- The importance for lay Christians of picking one teaching ministry to trust so as to avoid doubt and anxiety over what is true
+- The importance for lay Christians of picking one teaching ministry to trust so as to avoid doubt and anxiety over what is true, and exactly what this means.
 - How lay Christians ought to handle situations when seemingly earnest, well-educated Christian teachers take opposing views on important matters. Who should they trust?
 - The so-called "fruit test" -- how to tell good teachers from bad teachers
 
