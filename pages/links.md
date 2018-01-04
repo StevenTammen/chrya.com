@@ -41,7 +41,7 @@ I recommend that you have a look at the following websites:
 
 ### [e-Sword](http://www.e-sword.net/) and [theWord](http://www.theword.net/)
 
-These are two free Bible study programs that accomplish most everything that a layman needs. They are both quite good, but cater to slightly different audiences. [theWord](http://www.theword.net/) is more configurable than [e-Sword](http://www.e-sword.net/), but has a bit more of a learning curve. e-Sword tries to be as simple as possible, and is what I would recommend for people who don't get along with technology very well.
+These are two free Bible study programs that accomplish most everything that the average Christian needs. They are both quite good, but cater to slightly different audiences. [theWord](http://www.theword.net/) is more configurable than [e-Sword](http://www.e-sword.net/), but has a bit more of a learning curve. e-Sword tries to be as simple as possible, and is what I would recommend for people who don't get along with technology very well.
 
 Here is a list of helpful resources to use within the programs:
 
@@ -53,7 +53,7 @@ Here is a list of helpful resources to use within the programs:
 - Lexicons: Thayer's (Greek), Brown-Driver-Briggs (Hebrew), and Strong's Dictionary (Greek and Hebrew). In both programs, these will be accessible to English-speakers through Strong's numbers.
 - Verse-by-verse helps: Bob Utley's Study Guide Commentary Series (available for e-Sword [here](http://www.biblesupport.com/e-sword-downloads/file/9087-utley-bob-you-can-understand-the-bible-study-guide-commentary-series-otnt-23-vols/) and theWord [here](http://www.wordmodules.com/the-word-modules/file/735-utley-bob-you-can-understand-the-bible-study-guide-commentary-series-otnt-23-vols/)).
 
-Learning how to use these programs is worth it for the speed of cross-referencing alone. I do not think that a layman needs anything more than what I have listed above, since they should be getting their teaching from a good teaching ministry, not commentaries.
+Learning how to use these programs is worth it for the speed of cross-referencing alone. I do not think that most people need anything more than what I have listed above, since non-teachers should be getting their teaching from a good teaching ministry, not commentaries.
 
 ### [Logos](https://www.logos.com/), [BibleWorks](https://bibleworks.com/), and [Accordance](https://www.accordancebible.com/)
 
