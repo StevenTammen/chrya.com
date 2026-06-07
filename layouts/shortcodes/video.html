@@ -1,0 +1,5 @@
+<div id="{{ .Get "videoId" }}" class="embedded-youtube-video"></div>
+{{ if or (.Get "videoPlaylist") (.Get "slides") }}
+<div class="height-button-bar" style="margin: auto;">{{ if (.Get "videoPlaylist") }}<a href="{{ .Get "videoPlaylist" }}"><i class='fas fa-link fa-fw'></i>Link to wider playlist</a>{{ end }}{{ if (.Get "slides") }}<a href="{{ .Get "slides" }}"><i class='fas fa-eye fa-fw'></i>View slides</a>{{ end }}
+</div>
+{{ end }}

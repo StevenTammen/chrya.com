@@ -1,0 +1,23 @@
+# Ignore draft pages not ready for public view
+drafts/
+content/drafts/
+static/drafts/
+
+# Ignore local published website, if running hugo serve with --renderToDisk
+public/
+
+# Ignore content not to be displayed. Mostly things to build various sets of
+# presentation slides
+layouts/not-displayed
+content/not-displayed
+content/slides/not-displayed
+layouts/daily-progress-summaries
+content/daily-progress-summaries
+
+# Ignore information that is intentionally kept out of repo
+private/
+
+# Ignore Python virtual environment folder (for the preprocessor application)
+.venv/
+
+.idea/
